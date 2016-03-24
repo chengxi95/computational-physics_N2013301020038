@@ -5,5 +5,7 @@
 Press [Ctrl](https://www.baidu.com/)+[F4](https://www.baidu.com/)  to reloading this page
 
 #作业列表
+链接：
+     第三次作业![](computational-physics_N2013301020038/第三次作业 1.0.py)
 
 ##第三次作业
