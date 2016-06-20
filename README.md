@@ -11,7 +11,7 @@ link：<br>
   code:[Forth Homework](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A.py)<br>
   3.[The Fifth Homework](https://www.zybuluo.com/chengxi95/note/413472)
   code:[Fifth Homework](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%201.0.py)<br>
-  4.[The Sixth Homework](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%201.2.py)<br>
+  4.[The Sixth Homework](https://www.zybuluo.com/chengxi95/note/413532)code[Sixth Homewrk 1](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%201.2.py)[Sixth Homework2](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%201.1.py)[Sixth Homework3](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%201.0.py)<br>
   [Final exam](https://www.zybuluo.com/chengxi95/note/411804)<br>
      code:[final](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/final.py)
      
