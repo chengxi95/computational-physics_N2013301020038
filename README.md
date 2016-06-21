@@ -15,8 +15,10 @@ link：<br>
   6.[The Eighth Homework](https://www.zybuluo.com/chengxi95/note/413584)code:[Eigth Homework](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/%E7%AC%AC%E5%85%AB%E6%AC%A1%E4%BD%9C%E4%B8%9A1.0.py)<br>
   7.[The Ninth Homework](https://www.zybuluo.com/chengxi95/note/413609)code:[Ninth Homework1](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%201.0.py),[Ninth Homework2](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A\(1\)%201.1.py),[Ninth Homework3](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%881%EF%BC%891.2%20.py)<br>
   8.[The Tenth Homework](https://www.zybuluo.com/chengxi95/note/413913)code:[Tenth Homework1](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/%E7%AC%AC%E5%8D%81%E6%AC%A1%E4%BD%9C%E4%B8%9A1%201.0.py),[Tenth Homework2](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/%E7%AC%AC%E5%8D%81%E6%AC%A1%E4%BD%9C%E4%B8%9A2%201.0.py)<br>
-  9.[The Eleventh Homework](https://www.zybuluo.com/chengxi95/note/414389)code:[Eleventh Homework](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/%E7%AC%AC%E5%8D%81%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A1.py)
-  [Final exam](https://www.zybuluo.com/chengxi95/note/411804)<br>
+  9.[The Eleventh Homework](https://www.zybuluo.com/chengxi95/note/414389)code:[Eleventh Homework](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/%E7%AC%AC%E5%8D%81%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A1.py)<br>
+  [Final exam](https://www.zybuluo.com/chengxi95/note/411804)
+  10.[The Twelfth Homework](https://www.zybuluo.com/chengxi95/note/414533)code:[Twelfth Homework](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A.py)<br>
+  
      code:[final](https://github.com/chengxi95/computational-physics_N2013301020038/blob/master/final.py)
      
 
